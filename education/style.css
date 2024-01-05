@@ -1,0 +1,570 @@
+ul{
+    list-style: none ;
+}
+nav ul{
+    display: flex ;
+    justify-content: center;
+    /* width: 1236px; */
+    /* margin-left: 234px; */
+    align-items: center;
+    margin: 0px !important;
+    
+
+}
+nav .container{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+ul {
+    margin-top: 0 !important; 
+     margin-bottom: 0rem;
+}
+nav{
+    color: white;
+}
+nav{
+    display: flex !important;
+    /* justify-content: center; */
+    align-items: center;
+    /* margin: 0px !important; */
+}
+nav ul li{
+    padding-left: 15px;
+}
+#dropdownMenuButton{
+    border: none !important;
+    background-color: transparent;
+    color: white;
+}
+#dropdownMenuButton:focus{
+    /* border-bottom: 1px solid white !important; */
+    outline: 0px;
+}
+nav{
+    background-color: #9D2235;
+}
+#img1{
+    width: 185px;
+    height: 54px;
+    float: left;
+    margin-left: 10px;
+    /* margin-right: 200px; */
+}
+.dropdown-menu{
+    background-color: #9D2235;
+    /* border: 1px solid white; */
+}
+.dropdown-item{
+    color: white;
+    /* border-bottom: 1px solid white; */
+}
+#sec1{
+    background-color: #000000;
+    background-image: url(https://unicamp.thememove.com/main/wp-content/uploads/sites/2/2021/04/home-college-hero-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+#sec1 .col-md-12
+{
+    /* padding-top: 200px; */
+    color: white;
+    text-align: center;
+}
+#sec1 h1{
+    padding-top: 144px ;
+    font-weight: 700;
+    font-size: 90px;
+    padding-left: 99px;
+    padding-right: 96px;
+    /* line-height: 2.1; */
+}
+#sec1 h2{
+padding-bottom: 33px;
+padding-top: 20px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+#sec1 a{
+    padding: 14px 40px 15px 40px;
+    color:white;
+    background-color: #ae152d;
+    text-decoration: none;
+    font-size: 18px;
+    
+ 
+}
+#sec1 a:hover{
+    background-color: black;
+}
+
+
+/* sec1 finished */
+
+/* sec2 start */
+#sec2{
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background-image: url("https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/04/grey-logo.png");
+    background-repeat: no-repeat;
+    background-position: 106% 50%;
+}
+#sec2 .a{
+    padding-left: 50px;
+}
+#sec2 h1{
+    font-family: Merryweather;
+    font-weight: 700;
+}
+#sec2 #p1{
+    padding-bottom: 5px;
+    padding-top: 15px;
+    text-align: justify;
+    font-family: Merryweather;
+    font-size: 18px
+    ;
+}
+#sec2 #p2{
+    padding-bottom: 15px;
+    text-align: justify;
+    font-family: Merryweather;
+    font-size: 18px
+    ;
+    /* font-weight: 600; */
+}
+#a1{
+    padding: 15px 30px 15px 30px;
+    color:white;
+    background-color: #ae152d;
+    text-decoration: none;
+    font-size: 16px;  
+    /* margin-top: 20px; */
+}
+#a1:hover{
+    background-color: black;
+    color: white;
+}
+#sec3 a:hover{
+    background-color: black !important;
+}
+#r1{
+font-size: large;
+}
+i{
+    margin-left: 5px;
+}
+
+
+#sec3{
+    background-image: url("https://unicamp.thememove.com/main/wp-content/uploads/sites/2/2021/01/section-take-a-quiz-bg.png");
+    background-color: #9D2235;
+    background-position: left;
+    background-size: cover;
+    /* height: 300px; */
+    /* width: 100%; */
+    padding-bottom: 70px;
+}
+#sec3 {
+    color: white;
+    font-family: Merryweather;
+    
+}
+#sec3 .col-md-4 a{
+    text-decoration: none;
+    /* color: white;
+    background-color: white;*/
+  
+}
+#sec3 h4{
+    text-align: center;
+    color: black;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#sec3 .col-md-12{
+    text-align: center;
+}
+#sec3 h1{
+    padding-top: 60px;
+    padding-bottom: 35px;
+    font-size: 50px;
+    position: relative;
+    /* font-weight: 700; */
+}
+#sec3 .col-md-12 h1 hr{
+    width: 100px;
+    border: 2px solid white;
+}
+#sec3 h3:hover{
+    background-color: #000000;
+    color: white;
+}
+.element-1,.element-2,.element-3{
+    display: flex;
+    font-family: Merryweather;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+
+#sec4{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#sec4 h1{
+    color: #ccc;
+    padding-right: 25px;
+    font-family: Merryweather;
+    font-weight: 700;
+}
+#sec4 p{
+    font-size: 17px;
+}
+#p3{
+    position: relative;
+}
+#p3::before{
+    content: '\2014';
+    position: absolute;
+    font-size: 18px;
+    top: -6%;
+    left: 149px;
+    color: #ccc;
+}
+#p4{
+    position: relative;
+}
+#p4::before{
+    content: '\2014';
+    position: absolute;
+    font-size: 18px;
+    top: -6%;
+    left: 130px;
+    color: #ccc;
+}#p5{
+    position: relative;
+}
+#p5::before{
+    content: '\2014';
+    position: absolute;
+    font-size: 18px;
+    top: -6%;
+    left: 101px;
+    color: #ccc;
+}
+#sech1{
+    color: black !important;
+    padding-right: 25px;
+    font-family: Merryweather;
+    font-weight: 700;
+    /* padding-bottom: 30px; */
+}
+#hr hr{
+    width: 475px !important;
+}
+#sech1::before{
+    /* position: absolute; */
+    content: '\2014';
+    position: absolute;
+    font-size: 64px;
+    top: -15px;
+    left: 303px;
+    color: #ae152d;
+}
+#sec4 a{
+    background-color: #ae152d;
+    color: white;
+    border: none;
+    padding: 15px 70px 15px 30px;
+    margin-top: 10px;
+    text-decoration: none;
+    
+}
+#sec4 .bb::before{
+    content: '\2192';
+    position: relative;
+    /* z-index: -1; */
+    right: -225px;
+    font-size: 33px;
+    top: 2px;
+    color: white;
+}
+#sec4 .col-md-6 .bb{
+    text-align: end;
+   justify-content: end;
+   display: flex;
+   align-items: center;
+}
+.r1{
+    padding-bottom: 30px;
+}
+#dash11{
+    content: '\2014';
+    position: absolute;
+    font-size: 80px;
+    top: -38px;
+    left: -37px;
+    color: #ae152d;
+}
+#dash1{
+    position: relative;
+}
+#dash22{
+    content: '\2014';
+    position: absolute;
+    font-size: 80px;
+    top: 131px;
+    left: -37px;
+    color: #ae152d;
+    display: none;
+}
+#dash2{
+    position: relative;
+}
+#dash33{
+    content: '\2014';
+    position: absolute;
+    font-size: 80px;
+    top: 266px;
+    left: -37px;
+    color: #ae152d;
+    display: none;
+}
+#dash3{
+    position: relative;
+}
+#sec5 h1{
+    font-size: 69px;
+    color: white;
+    font-family: Merryweather;
+    font-weight: 700;
+}
+#sec5{
+    background:url("https://unicamp.thememove.com/main/wp-content/uploads/sites/2/2021/04/home-college-section-program-bg.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    background-attachment: fixed;
+    /* font-family: Merryweather; */
+}
+#sec5 p{
+    color: white;
+    font-family: Merryweather;
+    font-size: 24px;
+}
+#sec5 a{
+    background-color: #ae152d;
+    color: white;
+    border: none;
+    padding: 15px 45px 15px 45px;
+    margin-top: 10px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 18px;
+    width: 388px;
+}
+#sec5 a:hover{
+    background-color: white;
+    color: #000000;
+}
+#a2{
+    background-color: #ae152d;
+    color: white;
+    border: none;
+    padding: 15px 45px 15px 45px;
+    /* margin-top: 10px; */
+    text-decoration: none;
+    /* display: block; */
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 18px;
+    /* width: 279px; */
+    display: flex;
+    justify-content: end;
+}
+.cc{
+    display: flex;
+    justify-content: end;
+}
+
+.m1{
+    margin: 20px; 
+    background-color: white;
+} 
+.m1:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.m11{
+    padding-left: 30px; 
+    padding-right: 30px; 
+    padding-top: 20px;
+    /* padding-bottom: 20px;  */
+    text-align: justify;
+    /* text-align: center; */
+}
+
+.m11 h3{
+    color: orangered;
+}
+.slick-prev:before {
+    content: '←';
+ 
+    color: black !important;
+  
+}
+.slick-next:before {
+    content: '←';
+ 
+    color: black !important;
+  
+}
+#i1{
+    text-align: center;
+}
+.slick-slide img {
+    display: inline !important;
+}
+.m11 h6 span{
+    /* width: 30px; */
+    border: 4px solid green;
+    border-radius: 50%;
+    height: 5px;
+    width: 5px;
+    display: block;
+}
+.m11 h6{
+    display: flex;
+    align-items: center;
+    
+    /* justify-content: center; */
+}
+
+.fle{
+
+    display: flex;
+    justify-content: space-between;
+}
+.fle a{
+    padding: 14px 40px 14px 40px;
+    color:white;
+    background-color: #ae152d;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+}
+#sec6{
+    padding-top: 50px;
+    background-color: #F5F5F5;
+    padding-bottom: 50px;
+}
+#sec6 .col-md-12{
+padding: 0px !important;
+}
+#sec7{
+    padding-top: 40px;
+}
+.mai{
+    display: flex;
+    column-gap: 39px;
+    padding-top: 15px;
+}
+#sec7 .row{
+    padding-top: 50px; ;
+}
+.mai h4{
+    color: #9D2235;
+    font-size: 30px;
+}
+.sec p{
+margin: 0px !important;
+padding-bottom: 5px;
+}
+footer{
+    background-color: #000000;
+    padding-top: 50px;
+    color: white;
+    padding-bottom: 10px;
+
+}
+footer p{
+    color: #ABABAB;
+}
+footer h5{
+    padding-bottom: 10px;
+}
+footer h6{
+    padding-bottom: 8px;
+}
+footer a{
+    color: #d82e48;
+    padding: 10px 20px 10px 20px;
+    border: 1px solid #ABABAB;
+    text-decoration: none;
+    font-weight: 700;
+    /* margin-top: 20px; */
+}
+footer a:hover{
+    text-decoration: none;
+    background-color: white;
+    color: #9D2235;
+}
+#pg{
+    padding-bottom: 10px;
+}
+footer i{
+    font-size: 18px;
+}
+#sec6 a:hover{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+
+}
+#sec7 a:hover{
+    background-color: black;
+    color: white;
+    text-decoration: none; 
+}
+#sec8 img{
+    margin-right: 20px;
+}
+#sec8{
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+footer hr{
+    border: 1px solid grey !important;
+    margin-top: 30px !important;
+}
+#hr2 hr{
+    width: 57px;
+    border: 3px solid #ae152d;
+    position: absolute;
+    left: -237px;
+    top: 12px;
+}
+#hr2{
+    width: 100px;
+    position: relative;
+}
+#hr3{
+    width: 100px;
+    position: relative;
+}
+#hr3 hr{
+    width: 57px;
+    border: 3px solid #ae152d;
+    position: absolute;
+    left: -43px;
+    top: 11px; 
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Times New Roman', Times, serif;
+}
